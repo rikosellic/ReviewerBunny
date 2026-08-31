@@ -1,8 +1,0 @@
-If ethical approval was obtained and compliance was ensured, the manuscript should include the ethical approval number for transparency and reproducibility in the “2.1 Participants”. This information is critical for ensuring the study adheres to ethical standards and allows for verification by readers and reviewers.
-如果获得了伦理批准并确保了合规性，稿件应在“2.1参与者”中包含伦理批准号，以提高透明度和可重复性。这些信息对于确保研究符合道德标准并允许读者和审稿人进行验证至关重要。
-
-If ethical approval was obtained and compliance was ensured, the manuscript should explicitly state the time period during which the data were collected and include the ethical approval number for transparency and reproducibility. This information is critical for ensuring the study adheres to ethical standards and allows for verification by readers and reviewers.
-如果获得了伦理批准并确保了合规性，稿件应明确说明收集数据的时间段，并包括伦理批准号，以提高透明度和可重复性。这些信息对于确保研究符合道德标准并允许读者和审稿人进行验证至关重要。
-
-
-对于未成年人的调查研究，不仅需要获得参与者及其监护人的知情同意，还需要获得研究项目所在机构或上级组织的伦理批准，否则研究将视为不合法。

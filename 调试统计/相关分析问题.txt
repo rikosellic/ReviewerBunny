@@ -1,6 +1,0 @@
-What type of correlation coefficient did the authors use? 
-The specific method of correlation analysis (such as which correlation coefficient was used) should be specified in detail in “3.3 Data analysis”.
-作者使用了哪种类型的相关系数？具体的相关分析方法（如使用哪些相关系数）应在“3.3数据分析”中详细说明。
-
-If the analysis involves a continuous variable and a potentially continuous but dichotomously measured variable, the Point-Biserial Correlation Coefficient should be applied. If the analysis involves two dichotomous variables, the Phi Coefficient or chi-square tests should be used to examine group differences. If the analysis involves rank variables, Spearman's correlation coefficients should be used. The manuscript not only fails to specify the type of correlation coefficient used but also appears to uniformly apply an incorrect correlation method (likely Pearson’s correlation). This issue should be addressed and corrected to ensure the statistical analyses are appropriate and accurate.
-如果分析涉及一个连续变量和一个可能连续但可二分类测量的变量，则应应用点二列相关系数（point - biserier Correlation Coefficient）。如果分析涉及两个二分类变量，则应使用Phi系数或卡方检验来检验组间差异。如果分析涉及等级变量，则应使用斯皮尔曼相关系数。该文稿不仅没有说明使用的相关系数类型，而且似乎一致地应用了一种错误的相关方法（可能是Pearson相关）。这个问题应该得到解决和纠正，以确保统计分析是适当和准确的。
